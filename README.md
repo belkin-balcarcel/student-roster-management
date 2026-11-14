@@ -16,7 +16,7 @@ Concepts: Object-Oriented Programming, Pointers, Dynamic Memory Allocation, Enum
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/belkin-balcarcel/student-roster-management.git
 
    ```
 2. Compile the source files using any standard C++ compiler (such as `g++` or Visual Studio):
